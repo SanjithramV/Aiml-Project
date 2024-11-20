@@ -6,3 +6,4 @@ MITBIH_PTB_dataset_CNN_different _AF file which explains about the importande of
 MITBIH_PTB_dataset_CNN_6_layer_af_fusion file which is used for CHAF concept - differnt combinations - heterogeneous AF at each layer - finalizing best combinations
 
 dataset.txt - downloading datatset from drive
+Dataset is used to train the model and making sure it is not over fitting and under fitting
